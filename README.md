@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About me
+### About me :slightly_smiling_face:
 :taiwan: Living in Taiwan.
 
 :school: Senior high school 9th grade student.
 
 :globe_with_meridians: Full stack web developer.
 
-### Tech Stack
+### Tech Stack :thinking:
 
 <div>
     <h4>Coding Language</h4>
@@ -81,4 +81,15 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-Adobe_Premiere_Pro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=FFFFFF&logoWidth=20" />
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=FFFFFF&logoWidth=20" />
     <img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=FFFFFF&logoWidth=20" />
+</div>
+
+### Stats :trophy:
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LiaoAnn&show_icons=true&theme=react" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiaoAnn&layout=compact&theme=react" />
+</div>
+<div align="center">
+</div>
+<div align="center">
+  <img  src="https://github-profile-trophy.vercel.app/?username=LiaoAnn&row=1&column=3&no-frame=true&no-bg=true" />
 </div>
