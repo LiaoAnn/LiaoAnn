@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### About me :slightly_smiling_face:
 :taiwan: Living in Taiwan.
 
-:school: National Taiwan University of Science and Technology 1st student.
+:school: National Taiwan University of Science and Technology 1st grade student.
 
 :globe_with_meridians: Full stack web developer.
 
