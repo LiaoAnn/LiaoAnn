@@ -19,18 +19,4 @@ Here are some ideas to get you started:
 
 🇹🇼 Living in Taiwan.
 
-🌐 Full stack web developer.
-
 💼 Interm at [APMIC](https://www.ap-mic.com/)
-
-💪 Want to be a solopreneur who helps peoples I want to help.
-
-## Stats 🏆
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LiaoAnn&show_icons=true&theme=react" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiaoAnn&layout=compact&theme=react" />
-</div>
-<div align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=LiaoAnn&row=1&column=3&no-frame=true&no-bg=true" />
-</div>
